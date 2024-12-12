@@ -7,7 +7,7 @@
         "MinFW": 0,
         "MaxFW": 5,
         "sha512": "86b7e464d39a7174bd473ae50f74766098ca6203051905bd529cfe4a189ed715b26ccfc2d7f451455534ff7fb48b7cb2bbc935a0115303a1c35e675d3c254de6",
-        "url": "https://github.com/trygoto/trytogo_OTA/blob/main/000T_3.zipp",
+        "url": "https://github.com/trygoto/trytogo_OTA/blob/main/000T_3.zip",
         "url_notes": "这是落地灯测试固件3 支持BLE 支持Zibee"
     },
     {
