@@ -6,7 +6,7 @@
         "imageType": "000T",
         "MinFW": 0,
         "MaxFW": 5,
-        "sha512": "86b7e464d39a7174bd473ae50f74766098ca6203051905bd529cfe4a189ed715b26ccfc2d7f451455534ff7fb48b7cb2bbc935a0115303a1c35e675d3c254de6",
+        "sha512": "fe9979fbcec802886482a13a928c099b347fa989f783e5da35023d4faaeefab4e2acbf51e3d52b3f2e08b357ee4083e44bd3aa9ccad2d249bc936c0a738fef62",
         "url": "https://github.com/trygoto/trytogo_OTA/raw/refs/heads/main/000T_3.zip",
         "url_notes": "这是落地灯测试固件3 支持BLE 支持Zibee"
     },
@@ -17,7 +17,7 @@
         "imageType": "000T",
         "MinFW": 0,
         "MaxFW": 5,
-        "sha512": "f2d9de886a2b49a77427ca01082df6e3abc75acc1491eb2e360fbb199a735bbfe7386cd61d41cb77c00809aabf00e95f912d33000851ccd85333f442a596f545",
+        "sha512": "059835398106dcc81d81c153a073ce756739440a53e426adf2dc78aa251a096ca67b14c3447395bc406d6d53fb1e95a4b929be36cf88c6d7b79c5e93e391688d",
         "url": "https://github.com/trygoto/trytogo_OTA/raw/refs/heads/main/000T_2.zip",
         "url_notes": "这是落地灯测试固件2 支持BLE 支持Zibee"
     }
